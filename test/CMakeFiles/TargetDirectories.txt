@@ -1,0 +1,8 @@
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/CMakeFiles/edit_cache.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/CMakeFiles/rebuild_cache.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/src/CMakeFiles/brainfuck.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/src/CMakeFiles/edit_cache.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/src/CMakeFiles/rebuild_cache.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/test/CMakeFiles/BrainfuckTests.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/test/CMakeFiles/edit_cache.dir
+/home/krystian/Documents/Programming/PARO/bflang-cpp-dojo/test/test/CMakeFiles/rebuild_cache.dir
